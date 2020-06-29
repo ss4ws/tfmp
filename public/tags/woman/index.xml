@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>woman on </title>
+    <link>/tags/woman/</link>
+    <description>Recent content in woman on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Aidyn Mills &amp; Spyros Simotas {year}</copyright>
+    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/woman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lydia Moyer</title>
+      <link>/fan-mail/lydia-moyer/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fan-mail/lydia-moyer/</guid>
+      <description>Dear Lydia,
+I’m taking this opportunity to (semi-formally) offer you words of gratitude and admiration for your work as an artist. It is a bit strange that I’m directing a fan letter to you, a close friend, but my curiosity of what I would say, and what you would say, overrode any reservations on my part. I do hope you read this letter with the sincerity with which it is intended.</description>
+    </item>
+    
+    <item>
+      <title>Yoko Ono</title>
+      <link>/fan-mail/yoko-ono/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/fan-mail/yoko-ono/</guid>
+      <description>Dear Ms. Ono,
+I’ve been meaning to write to you for some time now, but have been dissuaded by (perhaps misplaced) assumptions that someone of your stature would not respond to a letter from someone of my “non-stature”; in conventional terms, I have no significant fan base to report, and my art work has not had significant public exposure. I am of course deeply inspired by your work in both the field of “art” as well as in the field of romantic relationships.</description>
+    </item>
+    
+  </channel>
+</rss>
