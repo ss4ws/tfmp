@@ -1,6 +1,6 @@
 # Override these settings with your own
 languageCode = "en-us"
-baseURL = "https://example.org/"
+baseURL = "http://www.thefanmailproject.com/"
 copyright = "© Aidyn Mills & Spyros Simotas {year}"
 
 # The value "hugo-theme-codex" is only to get the exampleSite
