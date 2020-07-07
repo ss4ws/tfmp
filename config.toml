@@ -1,6 +1,6 @@
 # Override these settings with your own
 languageCode = "en-us"
-baseURL = ""
+baseURL = "https://ss4ws.github.io/"
 copyright = "© Aidyn Mills & Spyros Simotas {year}"
 
 # The value "hugo-theme-codex" is only to get the exampleSite
