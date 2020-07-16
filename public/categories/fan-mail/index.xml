@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>fan-mail on </title>
-    <link>https://ss4ws.github.io/categories/fan-mail/</link>
+    <link>/categories/fan-mail/</link>
     <description>Recent content in fan-mail on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Aidyn Mills &amp; Spyros Simotas {year}</copyright>
     <lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ss4ws.github.io/categories/fan-mail/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/fan-mail/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>New Name</title>
-      <link>https://ss4ws.github.io/letters/new-name/</link>
+      <link>/letters/new-name/</link>
       <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ss4ws.github.io/letters/new-name/</guid>
+      <guid>/letters/new-name/</guid>
       <description>Dear New Name
 You are awesome.
 Best, Aidyn</description>
@@ -25,19 +25,19 @@ Best, Aidyn</description>
     
     <item>
       <title>Franck Leibovici</title>
-      <link>https://ss4ws.github.io/letters/franck-leibovici/</link>
+      <link>/letters/franck-leibovici/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ss4ws.github.io/letters/franck-leibovici/</guid>
+      <guid>/letters/franck-leibovici/</guid>
       <description>Dear Franck</description>
     </item>
     
     <item>
       <title>Alejandra Pizarnik</title>
-      <link>https://ss4ws.github.io/letters/alejandra-pizarnik/</link>
+      <link>/letters/alejandra-pizarnik/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ss4ws.github.io/letters/alejandra-pizarnik/</guid>
+      <guid>/letters/alejandra-pizarnik/</guid>
       <description>Dear Alejandra1,
 I write to say thank you for your naked appraisal of life. I sometimes loathe all the lace and lipstick with which we cover what we see and do; which I myself have done, and on occasion still do.
 You reckoned with the limitations of words, using words themselves. You faced fears with mirrors. You wrote in the darkness to find light. So it is in your words, I see myself.</description>
@@ -45,41 +45,51 @@ You reckoned with the limitations of words, using words themselves. You faced fe
     
     <item>
       <title>Barbara Rubin</title>
-      <link>https://ss4ws.github.io/letters/barbara-rubin/</link>
+      <link>/letters/barbara-rubin/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ss4ws.github.io/letters/barbara-rubin/</guid>
+      <guid>/letters/barbara-rubin/</guid>
       <description>Dear Barbara,
 I wish I was alive with you in the 60s. I crave the boldness and zest that you lived with; to immerse myself in it, to contortion my body and mind with it, to create with it. In many ways I see myself in you: the childlike curiosity; a laser-sharp focus on what you want, free of the burden of external opinions of a myopic mainstream; and a gloriously transcendent vision of life, yet an effortless capacity to connect with other beautiful humans.</description>
     </item>
     
     <item>
       <title>Spyros Simotas</title>
-      <link>https://ss4ws.github.io/letters/spyros-simotas/</link>
+      <link>/letters/spyros-simotas/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ss4ws.github.io/letters/spyros-simotas/</guid>
+      <guid>/letters/spyros-simotas/</guid>
       <description>Dear Spyros,
-I am so grateful to have this opportunity to properly tell you how much I admire your artistic practice. It’s perfect that our art piece/research project, that deconstructs lines between what we call “life” and “art,” has provoked this letter. For you have mastered the dissolution of any such lines; and in such admirably artful, humble and inspiring ways.
+I am so grateful to have this opportunity to properly tell you how much I admire your artistic practice. It’s perfect that our art piece/research project, that deconstructs lines between what we call “life” and “art,” has provoked this letter. In my opinion, you have mastered the dissolution of any such lines; and in such admirably artful, humble and inspiring ways.
 As I’ve thought about these fan mail letters that we’re writing, I started by imagining personalities who are so different from me, that I’ve placed them in some imagined place “above” the reality in which I live.</description>
     </item>
     
     <item>
-      <title>Lydia Moyer</title>
-      <link>https://ss4ws.github.io/letters/lydia-moyer/</link>
+      <title>L.M.</title>
+      <link>/letters/lydia-moyer/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ss4ws.github.io/letters/lydia-moyer/</guid>
+      <guid>/letters/lydia-moyer/</guid>
+      <description>Dear L.M,
+I’m taking this opportunity to (semi-formally) offer you words of gratitude and admiration for your work as an artist. It is a bit strange that I’m directing a fan letter to you, a close friend, but my curiosity of what I would say, and what you would say, overrode any reservations on my part. I do hope you read this letter with the sincerity with which it is intended.</description>
+    </item>
+    
+    <item>
+      <title>Lydia Moyer</title>
+      <link>/letters/lydia-moyer/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/letters/lydia-moyer/</guid>
       <description>Dear Lydia,
 I’m taking this opportunity to (semi-formally) offer you words of gratitude and admiration for your work as an artist. It is a bit strange that I’m directing a fan letter to you, a close friend, but my curiosity of what I would say, and what you would say, overrode any reservations on my part. I do hope you read this letter with the sincerity with which it is intended.</description>
     </item>
     
     <item>
       <title>Yoko Ono</title>
-      <link>https://ss4ws.github.io/letters/yoko-ono/</link>
+      <link>/letters/yoko-ono/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ss4ws.github.io/letters/yoko-ono/</guid>
+      <guid>/letters/yoko-ono/</guid>
       <description>Dear Ms. Ono,
 I’ve been meaning to write to you for some time now, but have been dissuaded by (perhaps misplaced) assumptions that someone of your stature would not respond to a letter from someone of my “non-stature”; in conventional terms, I have no significant fan base to report, and my art work has not had significant public exposure. I am of course deeply inspired by your work in both the field of “art” as well as in the field of romantic relationships.</description>
     </item>

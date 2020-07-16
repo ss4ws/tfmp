@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>contemporary on </title>
-    <link>https://ss4ws.github.io/categories/contemporary/</link>
+    <link>/categories/contemporary/</link>
     <description>Recent content in contemporary on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Aidyn Mills &amp; Spyros Simotas {year}</copyright>
     <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ss4ws.github.io/categories/contemporary/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/contemporary/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Franck Leibovici</title>
-      <link>https://ss4ws.github.io/letters/franck-leibovici/</link>
+      <link>/letters/franck-leibovici/</link>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ss4ws.github.io/letters/franck-leibovici/</guid>
+      <guid>/letters/franck-leibovici/</guid>
       <description>Dear Franck</description>
     </item>
     

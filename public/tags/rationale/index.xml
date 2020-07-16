@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rationale on </title>
-    <link>https://ss4ws.github.io/tags/rationale/</link>
+    <link>/tags/rationale/</link>
     <description>Recent content in rationale on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Aidyn Mills &amp; Spyros Simotas {year}</copyright>
     <lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ss4ws.github.io/tags/rationale/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/rationale/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Fan Mail Project</title>
-      <link>https://ss4ws.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ss4ws.github.io/about/</guid>
-      <description>What is the nature of our perceived separation and differences with &amp;ldquo;art&amp;rdquo; / “the artist”? Are there boundaries to an artistic practice? By writing fan letters, we hope to unpack, explore and embody the experience of the &amp;ldquo;distant&amp;rdquo; admirer. Does &amp;ldquo;art&amp;rdquo; need to be demystified? Inspired by Franck Leibovici, we inquire into the &amp;ldquo;forms of life&amp;rdquo; behind the artwork and the artist.
-Additionally, we experiment with the genre of fan mail.</description>
+      <guid>/about/</guid>
+      <description>What is the nature of our perceived separation and differences with &amp;ldquo;art&amp;rdquo; and “the artist”? Are there boundaries to an artistic practice? By writing fan letters, we hope to unpack, explore and embody the experience of the &amp;ldquo;distant&amp;rdquo; admirer. Does art need to be demystified? Inspired by Franck Leibovici, we inquire into the &amp;ldquo;forms of life&amp;rdquo; behind and through the artwork and the artist.
+Mixing a genre of pop culture with the artwork of artists whose ideas are obscure, not immediately gratifying, peculiar, inexplicable, and/or offensive.</description>
     </item>
     
   </channel>
