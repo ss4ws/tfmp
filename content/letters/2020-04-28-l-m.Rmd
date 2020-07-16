@@ -1,5 +1,5 @@
 ---
-title: Lydia Moyer
+title: L.M.
 author: Aidyn Mills
 date: '2020-04-28'
 slug: lydia-moyer
@@ -15,7 +15,7 @@ keywords: []
 stylesheet: post.css
 ---
 
-Dear Lydia,
+Dear L.M,
 
 I’m taking this opportunity to (semi-formally) offer you words of gratitude and admiration for your work as an artist. It is a bit strange that I’m directing a fan letter to you, a close friend, but my curiosity of what I would say, and what you would say, overrode any reservations on my part. I do hope you read this letter with the sincerity with which it is intended. Although a recipient of this fan mail and, therefore, part of a larger research project and artistic process, there is nothing contrived in my words; you are truly held in the highest of esteems! 
 
@@ -27,4 +27,4 @@ I appreciate you indulging my curiosities about how you inhabit the life of “t
 Yours Truly,
 
 
-Lorraine  
+Aidyn  
