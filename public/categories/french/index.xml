@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>french on </title>
+    <link>/categories/french/</link>
+    <description>Recent content in french on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Aidyn Mills &amp; Spyros Simotas {year}</copyright>
+    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/french/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Franck Leibovici </title>
+      <link>/letters/franck-leibovici/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/letters/franck-leibovici/</guid>
+      <description>  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,5 +1,5 @@
 ---
-title: alejandra pizarnik
+title: Alejandra Pizarnik
 author: Aidyn Mills
 date: '2020-06-29'
 slug: alejandra-pizarnik
@@ -14,7 +14,7 @@ keywords: []
 stylesheet: post.css
 ---
 
-Dear Alejandra,
+Dear Alejandra^[Alejandra Pizarnik was Argentine poet who wrote significantly about silence, language, solitude, and the body.],
 
 I write to say thank you for your naked appraisal of life. I sometimes loathe all the lace and lipstick with which we cover what we see and do; which I myself have done, and on occasion still do. 
 
@@ -29,10 +29,13 @@ Below I respond to your poem, “Continuity.” Our words commiserate and collab
 Not naming things by their names. Things have barbed edges, lush vegetation. But who is speaking in this room full of eyes? Who gnaws with a mouth made of paper? Names that come up, shadows with masks. Cure me of this void, I said. (The light loved itself in this darkness of mine. I knew that there was absence when I found myself saying, It is I.) Cure me, I said.
 
 
-	“Emptiness” Aidyn Mills, 2020
+“Emptiness” Aidyn Mills, 2020
 I too was once pricked by the rigidity of things, these barbed edges and insistent spokes. Then I noticed the light catching on the contours of these metal rims, revealing speckles of my reflection. I began to turn these and other things at just the right angles, and soon they all became the same things. And I, too, knew there was emptiness when I saw myself.
 
 
 With deep respect,
 
 Aidyn
+
+
+

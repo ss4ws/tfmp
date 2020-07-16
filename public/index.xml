@@ -7,13 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Aidyn Mills &amp; Spyros Simotas {year}</copyright>
-    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>alejandra pizarnik</title>
+      <title>Franck Leibovici </title>
+      <link>/letters/franck-leibovici/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/letters/franck-leibovici/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Alejandra Pizarnik</title>
       <link>/letters/alejandra-pizarnik/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
