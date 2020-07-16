@@ -4,16 +4,51 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/rationale/</loc>
-    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
+    <loc>/letters/alejandra-pizarnik/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/fan-mail/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/language/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/letters/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/poetry/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/writing/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rationale/</loc>
     <lastmod>2020-06-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,27 +63,12 @@
   </url>
   
   <url>
-    <loc>/fan-mail/barbara-rubin/</loc>
-    <lastmod>2020-06-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+    <loc>/letters/barbara-rubin/</loc>
     <lastmod>2020-06-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/experimental/</loc>
-    <lastmod>2020-06-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/fan-mail/</loc>
-    <lastmod>2020-06-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/fan-mail/</loc>
     <lastmod>2020-06-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,12 +98,12 @@
   </url>
   
   <url>
-    <loc>/fan-mail/spyros-simotas/</loc>
+    <loc>/letters/spyros-simotas/</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/fan-mail/lydia-moyer/</loc>
+    <loc>/letters/lydia-moyer/</loc>
     <lastmod>2020-04-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,7 +128,7 @@
   </url>
   
   <url>
-    <loc>/fan-mail/yoko-ono/</loc>
+    <loc>/letters/yoko-ono/</loc>
     <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
   

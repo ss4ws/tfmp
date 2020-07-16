@@ -66,10 +66,10 @@ theme = "hugo-theme-codex"
   url = "/about"
   
 [[menu.main]]
-  identifier = "fan-mail"
-  name = "fan-mail"
-  title = "fan mail"
-  url = "/fan-mail"
+  identifier = "letters"
+  name = "letters"
+  title = "letters"
+  url = "/letters"
 
 
 
