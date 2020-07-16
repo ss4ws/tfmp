@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>language on </title>
-    <link>/tags/language/</link>
+    <link>https://ss4ws.github.io/tags/language/</link>
     <description>Recent content in language on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Aidyn Mills &amp; Spyros Simotas {year}</copyright>
     <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/language/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ss4ws.github.io/tags/language/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Alejandra Pizarnik</title>
-      <link>/letters/alejandra-pizarnik/</link>
+      <link>https://ss4ws.github.io/letters/alejandra-pizarnik/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/letters/alejandra-pizarnik/</guid>
-      <description>Dear Alejandra,
+      <guid>https://ss4ws.github.io/letters/alejandra-pizarnik/</guid>
+      <description>Dear Alejandra1,
 I write to say thank you for your naked appraisal of life. I sometimes loathe all the lace and lipstick with which we cover what we see and do; which I myself have done, and on occasion still do.
 You reckoned with the limitations of words, using words themselves. You faced fears with mirrors. You wrote in the darkness to find light. So it is in your words, I see myself.</description>
     </item>

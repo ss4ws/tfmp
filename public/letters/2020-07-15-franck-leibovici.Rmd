@@ -1,5 +1,5 @@
 ---
-title: 'Franck Leibovici '
+title: 'Franck Leibovici'
 author: Spyridon Simotas
 date: '2020-07-15'
 slug: franck-leibovici
@@ -12,3 +12,7 @@ tags: []
 description: ''
 keywords: []
 ---
+
+Dear Franck 
+
+

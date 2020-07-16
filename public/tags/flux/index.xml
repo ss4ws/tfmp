@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>flux on </title>
-    <link>/tags/flux/</link>
+    <link>https://ss4ws.github.io/tags/flux/</link>
     <description>Recent content in flux on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Aidyn Mills &amp; Spyros Simotas {year}</copyright>
     <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/flux/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ss4ws.github.io/tags/flux/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Yoko Ono</title>
-      <link>/letters/yoko-ono/</link>
+      <link>https://ss4ws.github.io/letters/yoko-ono/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/letters/yoko-ono/</guid>
+      <guid>https://ss4ws.github.io/letters/yoko-ono/</guid>
       <description>Dear Ms. Ono,
 I’ve been meaning to write to you for some time now, but have been dissuaded by (perhaps misplaced) assumptions that someone of your stature would not respond to a letter from someone of my “non-stature”; in conventional terms, I have no significant fan base to report, and my art work has not had significant public exposure. I am of course deeply inspired by your work in both the field of “art” as well as in the field of romantic relationships.</description>
     </item>
