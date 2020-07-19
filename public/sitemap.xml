@@ -4,52 +4,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/cinema/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/fan-mail/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/letters/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/letters/new-name/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/performance/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/poetry/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/writing/</loc>
-    <lastmod>2020-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,7 +13,17 @@
   </url>
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/contemporary/</loc>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/fan-mail/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,12 +38,32 @@
   </url>
   
   <url>
+    <loc>/letters/</loc>
+    <lastmod>2020-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/letters/alejandra-pizarnik/</loc>
     <lastmod>2020-06-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/language/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/poetry/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/writing/</loc>
     <lastmod>2020-06-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -135,11 +120,6 @@
   <url>
     <loc>/letters/spyros-simotas/</loc>
     <lastmod>2020-05-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/letters/lydia-moyer/</loc>
-    <lastmod>2020-04-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>

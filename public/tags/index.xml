@@ -6,34 +6,25 @@
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Aidyn Mills &amp; Spyros Simotas {year}</copyright>
-    <lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <copyright>© Aidyn Mills &amp; Spyridon Simotas {year}</copyright>
+    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>cinema</title>
-      <link>/tags/cinema/</link>
-      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      <title>language</title>
+      <link>/tags/language/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cinema/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>performance</title>
-      <link>/tags/performance/</link>
-      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/performance/</guid>
+      <guid>/tags/language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>poetry</title>
       <link>/tags/poetry/</link>
-      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/poetry/</guid>
       <description></description>
@@ -42,18 +33,9 @@
     <item>
       <title>writing</title>
       <link>/tags/writing/</link>
-      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/writing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>language</title>
-      <link>/tags/language/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/language/</guid>
+      <guid>/tags/writing/</guid>
       <description></description>
     </item>
     

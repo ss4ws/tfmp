@@ -6,22 +6,11 @@
     <description>Recent content in Letters on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Aidyn Mills &amp; Spyros Simotas {year}</copyright>
-    <lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <copyright>© Aidyn Mills &amp; Spyridon Simotas {year}</copyright>
+    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/letters/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>New Name</title>
-      <link>/letters/new-name/</link>
-      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/letters/new-name/</guid>
-      <description>Dear New Name
-You are awesome.
-Best, Aidyn</description>
-    </item>
     
     <item>
       <title>Franck Leibovici</title>
@@ -29,7 +18,9 @@ Best, Aidyn</description>
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/letters/franck-leibovici/</guid>
-      <description>Dear Franck</description>
+      <description>  Dear Franck1
+ Franck Leibovici is a French contemporary artist and poet.↩︎
+   </description>
     </item>
     
     <item>
@@ -38,7 +29,7 @@ Best, Aidyn</description>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/letters/alejandra-pizarnik/</guid>
-      <description>Dear Alejandra1,
+      <description>Dear Alejandra,
 I write to say thank you for your naked appraisal of life. I sometimes loathe all the lace and lipstick with which we cover what we see and do; which I myself have done, and on occasion still do.
 You reckoned with the limitations of words, using words themselves. You faced fears with mirrors. You wrote in the darkness to find light. So it is in your words, I see myself.</description>
     </item>
@@ -71,16 +62,6 @@ As I’ve thought about these fan mail letters that we’re writing, I started b
       
       <guid>/letters/lydia-moyer/</guid>
       <description>Dear L.M,
-I’m taking this opportunity to (semi-formally) offer you words of gratitude and admiration for your work as an artist. It is a bit strange that I’m directing a fan letter to you, a close friend, but my curiosity of what I would say, and what you would say, overrode any reservations on my part. I do hope you read this letter with the sincerity with which it is intended.</description>
-    </item>
-    
-    <item>
-      <title>Lydia Moyer</title>
-      <link>/letters/lydia-moyer/</link>
-      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/letters/lydia-moyer/</guid>
-      <description>Dear Lydia,
 I’m taking this opportunity to (semi-formally) offer you words of gratitude and admiration for your work as an artist. It is a bit strange that I’m directing a fan letter to you, a close friend, but my curiosity of what I would say, and what you would say, overrode any reservations on my part. I do hope you read this letter with the sincerity with which it is intended.</description>
     </item>
     

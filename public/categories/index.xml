@@ -6,20 +6,11 @@
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Aidyn Mills &amp; Spyros Simotas {year}</copyright>
-    <lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <copyright>© Aidyn Mills &amp; Spyridon Simotas {year}</copyright>
+    <lastBuildDate>Wed, 15 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>fan-mail</title>
-      <link>/categories/fan-mail/</link>
-      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/fan-mail/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>art</title>
@@ -36,6 +27,15 @@
       <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/contemporary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fan-mail</title>
+      <link>/categories/fan-mail/</link>
+      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/fan-mail/</guid>
       <description></description>
     </item>
     

@@ -6,22 +6,11 @@
     <description>Recent content in poetry on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Aidyn Mills &amp; Spyros Simotas {year}</copyright>
-    <lastBuildDate>Thu, 16 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <copyright>© Aidyn Mills &amp; Spyridon Simotas {year}</copyright>
+    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/poetry/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>New Name</title>
-      <link>/letters/new-name/</link>
-      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/letters/new-name/</guid>
-      <description>Dear New Name
-You are awesome.
-Best, Aidyn</description>
-    </item>
     
     <item>
       <title>Alejandra Pizarnik</title>
@@ -29,7 +18,7 @@ Best, Aidyn</description>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/letters/alejandra-pizarnik/</guid>
-      <description>Dear Alejandra1,
+      <description>Dear Alejandra,
 I write to say thank you for your naked appraisal of life. I sometimes loathe all the lace and lipstick with which we cover what we see and do; which I myself have done, and on occasion still do.
 You reckoned with the limitations of words, using words themselves. You faced fears with mirrors. You wrote in the darkness to find light. So it is in your words, I see myself.</description>
     </item>
