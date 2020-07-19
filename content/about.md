@@ -13,7 +13,7 @@ tags:
 title: The Fan Mail Project
 ---
 
-What is the nature of our perceived separation and differences with "art" and “the artist”? Are there boundaries to an artistic practice? By writing fan letters, we hope to unpack, explore and embody the experience of the "distant" admirer. Does art need to be demystified? Inspired by Franck Leibovici, we inquire into the "forms of life" behind and through the artwork and the artist.
+What is the nature of our perceived separation and differences with "art" and “the artist”? Are there boundaries to an artistic practice? By writing fan letters, we hope to unpack, explore and embody the experience of the "distant" admirer. Inspired by Franck Leibovici, we inquire into the "forms of life" behind and through the artwork and the artist.
 
 Mixing a genre of pop culture with the art of the obscure, not immediately gratifying, peculiar, inexplicable, and/or offensive. 
 
