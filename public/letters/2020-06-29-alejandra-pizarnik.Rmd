@@ -14,11 +14,7 @@ keywords: []
 stylesheet: post.css
 ---
 
-<<<<<<< HEAD
 Dear Alejandra,
-=======
-Dear Alejandra^[Alejandra Pizarnik was an Argentine poet who wrote significantly about silence, the limits of language, solitude, and the body.],
->>>>>>> fe7301381b0625e411cfb066e05ed8933b1bd88c
 
 I write to say thank you for your naked appraisal of life. I sometimes loathe all the lace and lipstick with which we cover what we see and do; which I myself have done, and on occasion still do. 
 
