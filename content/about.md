@@ -18,4 +18,5 @@ What is the nature of our perceived separation and differences with "art" and â€
 Mixing a genre of pop culture with the art of the obscure, oblique, peculiar, and offensive, to touch into what we may mistakenly conceive of as out of reach.
 
 Aidyn Lorraine Mills: www.aidynmills.com
+
 Spyros Simotas: https://ss4ws.github.io
