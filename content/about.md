@@ -20,6 +20,7 @@ Mixing a genre of pop culture with the art of the obscure, oblique, peculiar, an
 
 
 Aidyn Lorraine Mills: www.aidynmills.com
+
 Spyridon Simotas: https://ss4ws.github.io
 
 
