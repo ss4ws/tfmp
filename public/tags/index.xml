@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Aidyn Mills &amp; Spyridon Simotas {year}</copyright>
-    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>artist</title>
+      <link>/tags/artist/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/artist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life</title>
+      <link>/tags/life/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>/tags/writing/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/writing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>language</title>
@@ -27,15 +54,6 @@
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/poetry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>writing</title>
-      <link>/tags/writing/</link>
-      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/writing/</guid>
       <description></description>
     </item>
     
@@ -94,15 +112,6 @@
     </item>
     
     <item>
-      <title>life</title>
-      <link>/tags/life/</link>
-      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/life/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>project</title>
       <link>/tags/project/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
@@ -126,15 +135,6 @@
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/woman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>artist</title>
-      <link>/tags/artist/</link>
-      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/artist/</guid>
       <description></description>
     </item>
     

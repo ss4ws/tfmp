@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Aidyn Mills &amp; Spyridon Simotas {year}</copyright>
-    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>french</title>
+      <link>/categories/french/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/french/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>literature</title>
+      <link>/categories/literature/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/literature/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>art</title>
@@ -36,15 +54,6 @@
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/fan-mail/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>french</title>
-      <link>/categories/french/</link>
-      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/french/</guid>
       <description></description>
     </item>
     
