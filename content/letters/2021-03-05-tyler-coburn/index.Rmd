@@ -5,6 +5,7 @@ date: '2021-03-05'
 slug: []
 categories:
   - art
+  - tylercoburn.com
 tags:
   - art
 description: ''
@@ -27,7 +28,3 @@ Thank you for offering such alluring labyrinths for our senses to meander throug
 With respect and gratitude,
 
 Aidyn Mills
-
-- - - 
-
-<small>Tyler's website: http://tylercoburn.com/</small>
