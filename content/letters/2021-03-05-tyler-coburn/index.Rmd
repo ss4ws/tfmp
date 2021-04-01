@@ -5,7 +5,7 @@ date: '2021-03-05'
 slug: []
 categories:
   - art
-  - tylercoburn.com
+  - http://www.tylercoburn.com
 tags:
   - art
 description: ''
