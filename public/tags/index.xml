@@ -2,148 +2,189 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>/tags/</link>
+    <link>https://ss4ws.github.io/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Aidyn Mills &amp; Spyridon Simotas {year}</copyright>
-    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ss4ws.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>art</title>
+      <link>https://ss4ws.github.io/tags/art/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ss4ws.github.io/tags/art/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>book</title>
+      <link>https://ss4ws.github.io/tags/book/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ss4ws.github.io/tags/book/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>concrete poetry</title>
+      <link>https://ss4ws.github.io/tags/concrete-poetry/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ss4ws.github.io/tags/concrete-poetry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photography</title>
+      <link>https://ss4ws.github.io/tags/photography/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ss4ws.github.io/tags/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>print</title>
+      <link>https://ss4ws.github.io/tags/print/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ss4ws.github.io/tags/print/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visual poetry</title>
+      <link>https://ss4ws.github.io/tags/visual-poetry/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ss4ws.github.io/tags/visual-poetry/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>artist</title>
-      <link>/tags/artist/</link>
+      <link>https://ss4ws.github.io/tags/artist/</link>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/artist/</guid>
+      <guid>https://ss4ws.github.io/tags/artist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>life</title>
-      <link>/tags/life/</link>
+      <link>https://ss4ws.github.io/tags/life/</link>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/life/</guid>
+      <guid>https://ss4ws.github.io/tags/life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>writing</title>
-      <link>/tags/writing/</link>
+      <link>https://ss4ws.github.io/tags/writing/</link>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/writing/</guid>
+      <guid>https://ss4ws.github.io/tags/writing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>language</title>
-      <link>/tags/language/</link>
+      <link>https://ss4ws.github.io/tags/language/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/language/</guid>
+      <guid>https://ss4ws.github.io/tags/language/</guid>
       <description></description>
     </item>
     
     <item>
       <title>poetry</title>
-      <link>/tags/poetry/</link>
+      <link>https://ss4ws.github.io/tags/poetry/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/poetry/</guid>
+      <guid>https://ss4ws.github.io/tags/poetry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rationale</title>
-      <link>/tags/rationale/</link>
+      <link>https://ss4ws.github.io/tags/rationale/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/rationale/</guid>
+      <guid>https://ss4ws.github.io/tags/rationale/</guid>
       <description></description>
     </item>
     
     <item>
       <title>60s</title>
-      <link>/tags/60s/</link>
+      <link>https://ss4ws.github.io/tags/60s/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/60s/</guid>
+      <guid>https://ss4ws.github.io/tags/60s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>experimental</title>
-      <link>/tags/experimental/</link>
+      <link>https://ss4ws.github.io/tags/experimental/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/experimental/</guid>
+      <guid>https://ss4ws.github.io/tags/experimental/</guid>
       <description></description>
     </item>
     
     <item>
       <title>film</title>
-      <link>/tags/film/</link>
+      <link>https://ss4ws.github.io/tags/film/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/film/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>art</title>
-      <link>/tags/art/</link>
-      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/art/</guid>
+      <guid>https://ss4ws.github.io/tags/film/</guid>
       <description></description>
     </item>
     
     <item>
       <title>friendship</title>
-      <link>/tags/friendship/</link>
+      <link>https://ss4ws.github.io/tags/friendship/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/friendship/</guid>
+      <guid>https://ss4ws.github.io/tags/friendship/</guid>
       <description></description>
     </item>
     
     <item>
       <title>project</title>
-      <link>/tags/project/</link>
+      <link>https://ss4ws.github.io/tags/project/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/project/</guid>
+      <guid>https://ss4ws.github.io/tags/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>uva</title>
-      <link>/tags/uva/</link>
+      <link>https://ss4ws.github.io/tags/uva/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/uva/</guid>
+      <guid>https://ss4ws.github.io/tags/uva/</guid>
       <description></description>
     </item>
     
     <item>
       <title>woman</title>
-      <link>/tags/woman/</link>
+      <link>https://ss4ws.github.io/tags/woman/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/woman/</guid>
+      <guid>https://ss4ws.github.io/tags/woman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>flux</title>
-      <link>/tags/flux/</link>
+      <link>https://ss4ws.github.io/tags/flux/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/flux/</guid>
+      <guid>https://ss4ws.github.io/tags/flux/</guid>
       <description></description>
     </item>
     

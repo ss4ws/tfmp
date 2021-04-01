@@ -2,58 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>/categories/</link>
+    <link>https://ss4ws.github.io/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Aidyn Mills &amp; Spyridon Simotas {year}</copyright>
-    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>french</title>
-      <link>/categories/french/</link>
-      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/french/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>literature</title>
-      <link>/categories/literature/</link>
-      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/literature/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ss4ws.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>art</title>
-      <link>/categories/art/</link>
-      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <link>https://ss4ws.github.io/categories/art/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/categories/art/</guid>
+      <guid>https://ss4ws.github.io/categories/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>concrete poetry</title>
+      <link>https://ss4ws.github.io/categories/concrete-poetry/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ss4ws.github.io/categories/concrete-poetry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>contemporary</title>
-      <link>/categories/contemporary/</link>
-      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <link>https://ss4ws.github.io/categories/contemporary/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/categories/contemporary/</guid>
+      <guid>https://ss4ws.github.io/categories/contemporary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photography</title>
+      <link>https://ss4ws.github.io/categories/photography/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ss4ws.github.io/categories/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>french</title>
+      <link>https://ss4ws.github.io/categories/french/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ss4ws.github.io/categories/french/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>literature</title>
+      <link>https://ss4ws.github.io/categories/literature/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ss4ws.github.io/categories/literature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fan-mail</title>
-      <link>/categories/fan-mail/</link>
+      <link>https://ss4ws.github.io/categories/fan-mail/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/fan-mail/</guid>
+      <guid>https://ss4ws.github.io/categories/fan-mail/</guid>
       <description></description>
     </item>
     

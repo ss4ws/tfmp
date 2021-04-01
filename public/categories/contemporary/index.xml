@@ -2,36 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>contemporary on </title>
-    <link>/categories/contemporary/</link>
+    <link>https://ss4ws.github.io/categories/contemporary/</link>
     <description>Recent content in contemporary on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Aidyn Mills &amp; Spyridon Simotas {year}</copyright>
-    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/categories/contemporary/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ss4ws.github.io/categories/contemporary/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Gordon Hall</title>
-      <link>/letters/gordon-hall/</link>
-      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <title>Erica Baum</title>
+      <link>https://ss4ws.github.io/letters/erica-baum/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/letters/gordon-hall/</guid>
-      <description>Dear Gordon,
-I just came across your piece, The Number of Inches Between Them. What a treasure.
-What first caught my attention was the similarity between your work and ours of writing letters of appreciation to artists. But after a few minutes of listening to you read your letter of gratitude to your respective artist, I realized there was more to your work. I came to a simple, yet profound realization about something I’ve been contemplating: whether to know someone or something requires</description>
+      <guid>https://ss4ws.github.io/letters/erica-baum/</guid>
+      <description>Dear Erica,
+I am reaching out with a letter of appreciation for your work. I recently watched a video presentation of your book The Naked Eye by Simon Morris on vimeo. As the progress bar keeps filling up and Simon Morris flips through your book explaining your brilliant idea, I am trying to remember when and where I’ve seen your work before. In a new tab, I type your name.</description>
     </item>
     
     <item>
-      <title>Franck Leibovici</title>
-      <link>/letters/franck-leibovici/</link>
-      <pubDate>Wed, 15 Jul 2020 00:00:00 +0000</pubDate>
+      <title>Gordon Hall</title>
+      <link>https://ss4ws.github.io/letters/gordon-hall/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>/letters/franck-leibovici/</guid>
-      <description>  Dear Franck1
- Franck Leibovici is a French contemporary artist and poet.↩︎
-   </description>
+      <guid>https://ss4ws.github.io/letters/gordon-hall/</guid>
+      <description>Dear Gordon,
+I just came across your piece, The Number of Inches Between Them. What a treasure.
+What first caught my attention was the similarity between your work and ours of writing letters of appreciation to artists. But after a few minutes of listening to you read your letter of gratitude to your respective artist, I realized there was more to your work. I came to a simple, yet profound realization about something I’ve been contemplating: whether to know someone or something requires</description>
     </item>
     
   </channel>

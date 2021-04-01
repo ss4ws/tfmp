@@ -2,22 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>uva on </title>
-    <link>/tags/uva/</link>
+    <link>https://ss4ws.github.io/tags/uva/</link>
     <description>Recent content in uva on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Aidyn Mills &amp; Spyridon Simotas {year}</copyright>
-    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/uva/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ss4ws.github.io/tags/uva/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L.M.</title>
-      <link>/letters/lydia-moyer/</link>
+      <link>https://ss4ws.github.io/letters/lydia-moyer/</link>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/letters/lydia-moyer/</guid>
+      <guid>https://ss4ws.github.io/letters/lydia-moyer/</guid>
       <description>Dear L.M,
 I’m taking this opportunity to (semi-formally) offer you words of gratitude and admiration for your work as an artist. It is a bit strange that I’m directing a fan letter to you, a close friend, but my curiosity of what I would say, and what you would say, overrode any reservations on my part. I do hope you read this letter with the sincerity with which it is intended.</description>
     </item>

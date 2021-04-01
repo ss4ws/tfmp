@@ -2,32 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>writing on </title>
-    <link>/tags/writing/</link>
+    <link>https://ss4ws.github.io/tags/writing/</link>
     <description>Recent content in writing on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Aidyn Mills &amp; Spyridon Simotas {year}</copyright>
-    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/writing/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ss4ws.github.io/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Martin Page</title>
-      <link>/letters/martin-page/</link>
+      <link>https://ss4ws.github.io/letters/martin-page/</link>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/letters/martin-page/</guid>
+      <guid>https://ss4ws.github.io/letters/martin-page/</guid>
       <description>Cher Martin,
 J’ai commencé à vous écrire une lettre hier. Je suis en train de lire votre Manuel d’écriture et de survie, lui-même un livre de correspondance. Je ne l’ai pas encore fini, je le savoure lentement, mais l’idée de vous écrire s’est déjà formée dans ma tête. Je voudrais, tout simplement, vous dire combien votre livre m’a aidé à retrouver l’équilibre dans un moment difficile et stressant.</description>
     </item>
     
     <item>
       <title>Alejandra Pizarnik</title>
-      <link>/letters/alejandra-pizarnik/</link>
+      <link>https://ss4ws.github.io/letters/alejandra-pizarnik/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/letters/alejandra-pizarnik/</guid>
+      <guid>https://ss4ws.github.io/letters/alejandra-pizarnik/</guid>
       <description>Dear Alejandra,
 I write to say thank you for your naked appraisal of life. I sometimes loathe all the lace and lipstick with which we cover what we see and do; which I myself have done, and on occasion still do.
 You reckoned with the limitations of words, using words themselves. You faced fears with mirrors. You wrote in the darkness to find light. So it is in your words, I find myself.</description>

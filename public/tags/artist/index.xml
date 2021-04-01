@@ -2,32 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>artist on </title>
-    <link>/tags/artist/</link>
+    <link>https://ss4ws.github.io/tags/artist/</link>
     <description>Recent content in artist on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Aidyn Mills &amp; Spyridon Simotas {year}</copyright>
-    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/artist/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ss4ws.github.io/tags/artist/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Martin Page</title>
-      <link>/letters/martin-page/</link>
+      <link>https://ss4ws.github.io/letters/martin-page/</link>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>/letters/martin-page/</guid>
+      <guid>https://ss4ws.github.io/letters/martin-page/</guid>
       <description>Cher Martin,
 J’ai commencé à vous écrire une lettre hier. Je suis en train de lire votre Manuel d’écriture et de survie, lui-même un livre de correspondance. Je ne l’ai pas encore fini, je le savoure lentement, mais l’idée de vous écrire s’est déjà formée dans ma tête. Je voudrais, tout simplement, vous dire combien votre livre m’a aidé à retrouver l’équilibre dans un moment difficile et stressant.</description>
     </item>
     
     <item>
       <title>Yoko Ono</title>
-      <link>/letters/yoko-ono/</link>
+      <link>https://ss4ws.github.io/letters/yoko-ono/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/letters/yoko-ono/</guid>
+      <guid>https://ss4ws.github.io/letters/yoko-ono/</guid>
       <description>Dear Ms. Ono,
 I’ve been meaning to write to you for some time now, but have been dissuaded by (perhaps misplaced) assumptions that someone of your stature would not respond to a letter from someone of my “non-stature”; in conventional terms, I have no significant fan base to report, and my art work has not had significant public exposure. I am of course deeply inspired by your work in both the field of “art” as well as in the field of romantic relationships.</description>
     </item>
