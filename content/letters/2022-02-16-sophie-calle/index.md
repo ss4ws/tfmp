@@ -2,7 +2,7 @@
 title: Sophie Calle
 author: Aidyn Mills
 date: '2022-01-26' 
-slug: []
+slug: [sophie-calle]
 categories: []
 tags: []
 description: ''
