@@ -20,6 +20,6 @@ We embody the experience of the distant admirer, and explore perceived separatio
 Mixing a genre of pop culture with the art of the obscure, oblique, peculiar, and offensive, to touch into what we may mistakenly conceive of as out of reach. -->
 
 
-Aidyn Lorraine Mills: www.aidynmills.com
+Aidyn Lorraine Mills: http://www.amancenido.com
 
-Spyridon Simotas: https://ss4ws.github.io
+Spyridon Simotas
